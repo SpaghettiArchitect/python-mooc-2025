@@ -1,0 +1,4 @@
+test/
+tmc/
+__pycache__/
+*.ini
